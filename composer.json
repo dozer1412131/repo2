@@ -1,7 +1,7 @@
 {
     "name": "dozer1412131/repo2",
     "type": "library",
-    "keywords": ["dondo!","static analysis"],
+    "keywords": ["dondo","static analysis"],
     "autoload": {
         "psr-4": {
             "Alex\\Repo2\\": "src/"
